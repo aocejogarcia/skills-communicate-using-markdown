@@ -9,3 +9,8 @@
 ``` r
 install.packages("tidyverse")
 ```
+
+- [x] Add different text sizes
+- [x] Add a picture/image
+- [x] Add a code chunk
+- [ ] Add a to-do list
